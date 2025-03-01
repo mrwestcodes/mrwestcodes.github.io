@@ -1,0 +1,122 @@
+[
+  {
+    "playerName": "CADE_CUNNINGHAM",
+    "teamName": "Detroit Pistons",
+    "assistScoreV2": 8.959349999999999,
+    "assistsFullRange": 81.44863636363635,
+    "spread": 9.5,
+    "oppName": "Brooklyn Nets",
+    "oppPace": 96.1,
+    "oppFgPercentage": 0.479,
+    "playerOdds": {
+      "oddID": "assists-CADE_CUNNINGHAM_1_NBA-game-ou-over",
+      "playerID": "CADE_CUNNINGHAM_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+110",
+      "bookOdds": "-104",
+      "bookOverUnder": "9.5"
+    }
+  },
+  {
+    "playerName": "CHRIS_PAUL",
+    "teamName": "San Antonio Spurs",
+    "assistScoreV2": 7.382977419354839,
+    "assistsFullRange": 67.11797653958945,
+    "spread": 6.5,
+    "oppName": "Memphis Grizzlies",
+    "oppPace": 104,
+    "oppFgPercentage": 0.453,
+    "playerOdds": {
+      "oddID": "assists-CHRIS_PAUL_1_NBA-game-ou-over",
+      "playerID": "CHRIS_PAUL_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+100",
+      "bookOdds": "-149",
+      "bookOverUnder": "6.5"
+    }
+  },
+  {
+    "playerName": "JA_MORANT",
+    "teamName": "Memphis Grizzlies",
+    "assistScoreV2": 7.164503225806451,
+    "assistsFullRange": 65.13184750733137,
+    "spread": 7.5,
+    "oppName": "San Antonio Spurs",
+    "oppPace": 99.4,
+    "oppFgPercentage": 0.464,
+    "playerOdds": {
+      "oddID": "assists-JA_MORANT_1_NBA-game-ou-over",
+      "playerID": "JA_MORANT_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+112",
+      "bookOdds": "-102",
+      "bookOverUnder": "7.5"
+    }
+  },
+  {
+    "playerName": "DAMIAN_LILLARD",
+    "teamName": "Milwaukee Bucks",
+    "assistScoreV2": 6.8903967741935475,
+    "assistsFullRange": 62.6399706744868,
+    "spread": 6.5,
+    "oppName": "Dallas Mavericks",
+    "oppPace": 99,
+    "oppFgPercentage": 0.457,
+    "playerOdds": {
+      "oddID": "assists-DAMIAN_LILLARD_1_NBA-game-ou-over",
+      "playerID": "DAMIAN_LILLARD_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+132",
+      "bookOdds": "-139",
+      "bookOverUnder": "6.5"
+    }
+  },
+  {
+    "playerName": "LAMELO_BALL",
+    "teamName": "Charlotte Hornets",
+    "assistScoreV2": 6.943835483870967,
+    "assistsFullRange": 63.125777126099706,
+    "spread": 7.5,
+    "oppName": "Washington Wizards",
+    "oppPace": 101.4,
+    "oppFgPercentage": 0.474,
+    "playerOdds": {
+      "oddID": "assists-LAMELO_BALL_1_NBA-game-ou-over",
+      "playerID": "LAMELO_BALL_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+110",
+      "bookOdds": "-107",
+      "bookOverUnder": "7.5"
+    }
+  },
+  {
+    "playerName": "DEAARON_FOX",
+    "teamName": "San Antonio Spurs",
+    "assistScoreV2": 6.34297741935484,
+    "assistsFullRange": 57.663431085044,
+    "spread": 5.5,
+    "oppName": "Memphis Grizzlies",
+    "oppPace": 104,
+    "oppFgPercentage": 0.453,
+    "playerOdds": {
+      "oddID": "assists-DEAARON_FOX_1_NBA-game-ou-over",
+      "playerID": "DEAARON_FOX_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+128",
+      "bookOdds": "-138",
+      "bookOverUnder": "5.5"
+    }
+  }
+]

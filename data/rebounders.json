@@ -1,0 +1,62 @@
+[
+  {
+    "playerName": "DOMANTAS_SABONIS",
+    "teamName": "Sacramento Kings",
+    "reboundScorev2": 15.458391935483874,
+    "spread": 13.5,
+    "oppName": "Houston Rockets",
+    "oppPace": 98.7,
+    "oppFgPercentage": 0.453,
+    "oppReboundsAllowed": 42.9,
+    "playerOdds": {
+      "oddID": "rebounds-DOMANTAS_SABONIS_1_NBA-game-ou-over",
+      "playerID": "DOMANTAS_SABONIS_1_NBA",
+      "sideID": "over",
+      "statID": "rebounds",
+      "betTypeID": "ou",
+      "fairOdds": "+114",
+      "bookOdds": "+100",
+      "bookOverUnder": "13.5"
+    }
+  },
+  {
+    "playerName": "GIANNIS_ANTETOKOUNMPO",
+    "teamName": "Milwaukee Bucks",
+    "reboundScorev2": 12.398196774193547,
+    "spread": 12.5,
+    "oppName": "Dallas Mavericks",
+    "oppPace": 99,
+    "oppFgPercentage": 0.457,
+    "oppReboundsAllowed": 45.2,
+    "playerOdds": {
+      "oddID": "rebounds-GIANNIS_ANTETOKOUNMPO_1_NBA-game-ou-over",
+      "playerID": "GIANNIS_ANTETOKOUNMPO_1_NBA",
+      "sideID": "over",
+      "statID": "rebounds",
+      "betTypeID": "ou",
+      "fairOdds": "+102",
+      "bookOdds": "-115",
+      "bookOverUnder": "12.5"
+    }
+  },
+  {
+    "playerName": "ALPEREN_SENGUN",
+    "teamName": "Houston Rockets",
+    "reboundScorev2": 12.77680161290323,
+    "spread": 10.5,
+    "oppName": "Sacramento Kings",
+    "oppPace": 99.3,
+    "oppFgPercentage": 0.467,
+    "oppReboundsAllowed": 42.9,
+    "playerOdds": {
+      "oddID": "rebounds-ALPEREN_SENGUN_1_NBA-game-ou-over",
+      "playerID": "ALPEREN_SENGUN_1_NBA",
+      "sideID": "over",
+      "statID": "rebounds",
+      "betTypeID": "ou",
+      "fairOdds": "+107",
+      "bookOdds": "-108",
+      "bookOverUnder": "10.5"
+    }
+  }
+]
