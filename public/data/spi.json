@@ -196,5 +196,27 @@
     },
     "normalizedStdDev": 0.13123359580052493,
     "avgUsage": 25.425
+  },
+  {
+    "playerName": "MALIK_BEASLEY",
+    "teamName": "Detroit Pistons",
+    "spi": 18.9,
+    "spread": 14.5,
+    "oppName": "Brooklyn Nets",
+    "oppPace": 96.1,
+    "oppDefRat": 115.2,
+    "avgPoints": 16.7,
+    "playerOdds": {
+      "oddID": "points-MALIK_BEASLEY_1_NBA-game-ou-over",
+      "playerID": "MALIK_BEASLEY_1_NBA",
+      "sideID": "over",
+      "statID": "points",
+      "betTypeID": "ou",
+      "fairOdds": "+109",
+      "bookOdds": "-125",
+      "bookOverUnder": "14.5"
+    },
+    "normalizedStdDev": 0.13297872340425532,
+    "avgUsage": 22.365000000000002
   }
 ]

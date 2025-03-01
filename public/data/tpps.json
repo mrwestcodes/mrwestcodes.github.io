@@ -2,7 +2,7 @@
   {
     "playerName": "STEPHEN_CURRY",
     "teamName": "Golden State Warriors",
-    "tppsv2": 4.7832433425065695,
+    "tppsv2": 4.8,
     "tppsFullRange": 0.7908295659610863,
     "bookOverUnder": 4.5,
     "oppName": "Philadelphia 76ers",
@@ -22,7 +22,7 @@
   {
     "playerName": "MALIK_BEASLEY",
     "teamName": "Detroit Pistons",
-    "tppsv2": 4.276228669310691,
+    "tppsv2": 4.3,
     "tppsFullRange": 0.707003139992701,
     "bookOverUnder": 3.5,
     "oppName": "Brooklyn Nets",
@@ -42,7 +42,7 @@
   {
     "playerName": "LAMELO_BALL",
     "teamName": "Charlotte Hornets",
-    "tppsv2": 4.225098472892552,
+    "tppsv2": 4.2,
     "tppsFullRange": 0.698549614184902,
     "bookOverUnder": 3.5,
     "oppName": "Washington Wizards",
@@ -62,7 +62,7 @@
   {
     "playerName": "DAMIAN_LILLARD",
     "teamName": "Milwaukee Bucks",
-    "tppsv2": 3.9514145224321715,
+    "tppsv2": 4,
     "tppsFullRange": 0.6533005343754524,
     "bookOverUnder": 3.5,
     "oppName": "Dallas Mavericks",
@@ -82,7 +82,7 @@
   {
     "playerName": "TYRESE_MAXEY",
     "teamName": "Philadelphia 76ers",
-    "tppsv2": 3.735369418049835,
+    "tppsv2": 3.7,
     "tppsFullRange": 0.6175810771175728,
     "bookOverUnder": 3.5,
     "oppName": "Golden State Warriors",
@@ -102,7 +102,7 @@
   {
     "playerName": "ZACH_LAVINE",
     "teamName": "Sacramento Kings",
-    "tppsv2": 3.534089615347182,
+    "tppsv2": 3.5,
     "tppsFullRange": 0.5843028164040676,
     "bookOverUnder": 2.5,
     "oppName": "Houston Rockets",
@@ -122,7 +122,7 @@
   {
     "playerName": "KYRIE_IRVING",
     "teamName": "Dallas Mavericks",
-    "tppsv2": 3.4017898906470574,
+    "tppsv2": 3.4,
     "tppsFullRange": 0.5624292619203135,
     "bookOverUnder": 2.5,
     "oppName": "Milwaukee Bucks",
@@ -142,7 +142,7 @@
   {
     "playerName": "LUKA_DONCIC",
     "teamName": "Dallas Mavericks",
-    "tppsv2": 3.2084752262832064,
+    "tppsv2": 3.2,
     "tppsFullRange": 0.5304679040788235,
     "bookOverUnder": 0,
     "oppName": "Milwaukee Bucks",
@@ -152,7 +152,7 @@
   {
     "playerName": "VICTOR_WEMBANYAMA",
     "teamName": "San Antonio Spurs",
-    "tppsv2": 2.9745460606774508,
+    "tppsv2": 3,
     "tppsFullRange": 0.49179161536533855,
     "bookOverUnder": 0,
     "oppName": "Memphis Grizzlies",
