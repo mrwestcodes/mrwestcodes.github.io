@@ -1,26 +1,20 @@
 import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import Assists from './components/Assists';
+import Points from './components/Points';
+import Rebounds from './components/Rebounds';
+import Threes from './components/Threes';
+import './'
 
-function App() {
+const App: React.FC = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>NBA Player Stats</h1>
+      <Points />
+      <Threes />
+      <Assists />
+      <Rebounds />
     </div>
   );
-}
+};
 
 export default App;

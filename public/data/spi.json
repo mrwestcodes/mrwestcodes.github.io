@@ -1,0 +1,200 @@
+[
+  {
+    "playerName": "GIANNIS_ANTETOKOUNMPO",
+    "teamName": "Milwaukee Bucks",
+    "spi": 30.2,
+    "spread": 29.5,
+    "oppName": "Dallas Mavericks",
+    "oppPace": 99,
+    "oppDefRat": 113.9,
+    "avgPoints": 30.9,
+    "playerOdds": {
+      "oddID": "points-GIANNIS_ANTETOKOUNMPO_1_NBA-game-ou-over",
+      "playerID": "GIANNIS_ANTETOKOUNMPO_1_NBA",
+      "sideID": "over",
+      "statID": "points",
+      "betTypeID": "ou",
+      "fairOdds": "+119",
+      "bookOdds": "-118",
+      "bookOverUnder": "29.5"
+    },
+    "normalizedStdDev": 0.16339869281045752,
+    "avgUsage": 36.06153846153846
+  },
+  {
+    "playerName": "TYRESE_MAXEY",
+    "teamName": "Philadelphia 76ers",
+    "spi": 28.3,
+    "spread": 28.5,
+    "oppName": "Golden State Warriors",
+    "oppPace": 99.1,
+    "oppDefRat": 111.9,
+    "avgPoints": 27.2,
+    "playerOdds": {
+      "oddID": "points-TYRESE_MAXEY_1_NBA-game-ou-over",
+      "playerID": "TYRESE_MAXEY_1_NBA",
+      "sideID": "over",
+      "statID": "points",
+      "betTypeID": "ou",
+      "fairOdds": "+105",
+      "bookOdds": "-110",
+      "bookOverUnder": "28.5"
+    },
+    "normalizedStdDev": 0.10638297872340426,
+    "avgUsage": 29.688888888888883
+  },
+  {
+    "playerName": "LAMELO_BALL",
+    "teamName": "Charlotte Hornets",
+    "spi": 27.5,
+    "spread": 26.5,
+    "oppName": "Washington Wizards",
+    "oppPace": 101.4,
+    "oppDefRat": 119.1,
+    "avgPoints": 26.3,
+    "playerOdds": {
+      "oddID": "points-LAMELO_BALL_1_NBA-game-ou-over",
+      "playerID": "LAMELO_BALL_1_NBA",
+      "sideID": "over",
+      "statID": "points",
+      "betTypeID": "ou",
+      "fairOdds": "+104",
+      "bookOdds": "-110",
+      "bookOverUnder": "26.5"
+    },
+    "normalizedStdDev": 0.11235955056179775,
+    "avgUsage": 29.737500000000004
+  },
+  {
+    "playerName": "CADE_CUNNINGHAM",
+    "teamName": "Detroit Pistons",
+    "spi": 27.4,
+    "spread": 24.5,
+    "oppName": "Brooklyn Nets",
+    "oppPace": 96.1,
+    "oppDefRat": 115.2,
+    "avgPoints": 25.4,
+    "playerOdds": {
+      "oddID": "points-CADE_CUNNINGHAM_1_NBA-game-ou-over",
+      "playerID": "CADE_CUNNINGHAM_1_NBA",
+      "sideID": "over",
+      "statID": "points",
+      "betTypeID": "ou",
+      "fairOdds": "+113",
+      "bookOdds": "-125",
+      "bookOverUnder": "24.5"
+    },
+    "normalizedStdDev": 0.13003901170351104,
+    "avgUsage": 33.85263157894737
+  },
+  {
+    "playerName": "DAMIAN_LILLARD",
+    "teamName": "Milwaukee Bucks",
+    "spi": 27.2,
+    "spread": 24.5,
+    "oppName": "Dallas Mavericks",
+    "oppPace": 99,
+    "oppDefRat": 113.9,
+    "avgPoints": 25.4,
+    "playerOdds": {
+      "oddID": "points-DAMIAN_LILLARD_1_NBA-game-ou-over",
+      "playerID": "DAMIAN_LILLARD_1_NBA",
+      "sideID": "over",
+      "statID": "points",
+      "betTypeID": "ou",
+      "fairOdds": "+118",
+      "bookOdds": "-117",
+      "bookOverUnder": "24.5"
+    },
+    "normalizedStdDev": 0.1322751322751323,
+    "avgUsage": 28.03125
+  },
+  {
+    "playerName": "KYRIE_IRVING",
+    "teamName": "Dallas Mavericks",
+    "spi": 26.1,
+    "spread": 28.5,
+    "oppName": "Milwaukee Bucks",
+    "oppPace": 99.7,
+    "oppDefRat": 112.6,
+    "avgPoints": 24.9,
+    "playerOdds": {
+      "oddID": "points-KYRIE_IRVING_1_NBA-game-ou-over",
+      "playerID": "KYRIE_IRVING_1_NBA",
+      "sideID": "over",
+      "statID": "points",
+      "betTypeID": "ou",
+      "fairOdds": "+100",
+      "bookOdds": "-115",
+      "bookOverUnder": "28.5"
+    },
+    "normalizedStdDev": 0.12269938650306748,
+    "avgUsage": 27.952941176470592
+  },
+  {
+    "playerName": "DEAARON_FOX",
+    "teamName": "San Antonio Spurs",
+    "spi": 26.1,
+    "spread": 22.5,
+    "oppName": "Memphis Grizzlies",
+    "oppPace": 104,
+    "oppDefRat": 111.8,
+    "avgPoints": 24,
+    "playerOdds": {
+      "oddID": "points-DEAARON_FOX_1_NBA-game-ou-over",
+      "playerID": "DEAARON_FOX_1_NBA",
+      "sideID": "over",
+      "statID": "points",
+      "betTypeID": "ou",
+      "fairOdds": "+105",
+      "bookOdds": "-125",
+      "bookOverUnder": "22.5"
+    },
+    "normalizedStdDev": 0.14947683109118085,
+    "avgUsage": 24.79444444444444
+  },
+  {
+    "playerName": "STEPHEN_CURRY",
+    "teamName": "Golden State Warriors",
+    "spi": 25.1,
+    "spread": 27.5,
+    "oppName": "Philadelphia 76ers",
+    "oppPace": 96.7,
+    "oppDefRat": 116.5,
+    "avgPoints": 24,
+    "playerOdds": {
+      "oddID": "points-STEPHEN_CURRY_1_NBA-game-ou-over",
+      "playerID": "STEPHEN_CURRY_1_NBA",
+      "sideID": "over",
+      "statID": "points",
+      "betTypeID": "ou",
+      "fairOdds": "+112",
+      "bookOdds": "-117",
+      "bookOverUnder": "27.5"
+    },
+    "normalizedStdDev": 0.0945179584120983,
+    "avgUsage": 30.711111111111116
+  },
+  {
+    "playerName": "ZACH_LAVINE",
+    "teamName": "Sacramento Kings",
+    "spi": 24.8,
+    "spread": 21.5,
+    "oppName": "Houston Rockets",
+    "oppPace": 98.7,
+    "oppDefRat": 109.6,
+    "avgPoints": 22.9,
+    "playerOdds": {
+      "oddID": "points-ZACH_LAVINE_1_NBA-game-ou-over",
+      "playerID": "ZACH_LAVINE_1_NBA",
+      "sideID": "over",
+      "statID": "points",
+      "betTypeID": "ou",
+      "fairOdds": "+104",
+      "bookOdds": "-111",
+      "bookOverUnder": "21.5"
+    },
+    "normalizedStdDev": 0.13123359580052493,
+    "avgUsage": 25.425
+  }
+]

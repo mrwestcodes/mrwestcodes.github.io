@@ -1,0 +1,162 @@
+[
+  {
+    "playerName": "STEPHEN_CURRY",
+    "teamName": "Golden State Warriors",
+    "tppsv2": 4.7832433425065695,
+    "tppsFullRange": 0.7908295659610863,
+    "bookOverUnder": 4.5,
+    "oppName": "Philadelphia 76ers",
+    "oppPace": 96.7,
+    "opp3pm": 13.7,
+    "playerOdds": {
+      "oddID": "threePointersMade-STEPHEN_CURRY_1_NBA-game-ou-over",
+      "playerID": "STEPHEN_CURRY_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "+142",
+      "bookOdds": "-145",
+      "bookOverUnder": "4.5"
+    }
+  },
+  {
+    "playerName": "MALIK_BEASLEY",
+    "teamName": "Detroit Pistons",
+    "tppsv2": 4.276228669310691,
+    "tppsFullRange": 0.707003139992701,
+    "bookOverUnder": 3.5,
+    "oppName": "Brooklyn Nets",
+    "oppPace": 96.1,
+    "opp3pm": 13.1,
+    "playerOdds": {
+      "oddID": "threePointersMade-MALIK_BEASLEY_1_NBA-game-ou-over",
+      "playerID": "MALIK_BEASLEY_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "-101",
+      "bookOdds": "-117",
+      "bookOverUnder": "3.5"
+    }
+  },
+  {
+    "playerName": "LAMELO_BALL",
+    "teamName": "Charlotte Hornets",
+    "tppsv2": 4.225098472892552,
+    "tppsFullRange": 0.698549614184902,
+    "bookOverUnder": 3.5,
+    "oppName": "Washington Wizards",
+    "oppPace": 101.4,
+    "opp3pm": 14.3,
+    "playerOdds": {
+      "oddID": "threePointersMade-LAMELO_BALL_1_NBA-game-ou-over",
+      "playerID": "LAMELO_BALL_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "+100",
+      "bookOdds": "-140",
+      "bookOverUnder": "3.5"
+    }
+  },
+  {
+    "playerName": "DAMIAN_LILLARD",
+    "teamName": "Milwaukee Bucks",
+    "tppsv2": 3.9514145224321715,
+    "tppsFullRange": 0.6533005343754524,
+    "bookOverUnder": 3.5,
+    "oppName": "Dallas Mavericks",
+    "oppPace": 99,
+    "opp3pm": 12.8,
+    "playerOdds": {
+      "oddID": "threePointersMade-DAMIAN_LILLARD_1_NBA-game-ou-over",
+      "playerID": "DAMIAN_LILLARD_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "+124",
+      "bookOdds": "+109",
+      "bookOverUnder": "3.5"
+    }
+  },
+  {
+    "playerName": "TYRESE_MAXEY",
+    "teamName": "Philadelphia 76ers",
+    "tppsv2": 3.735369418049835,
+    "tppsFullRange": 0.6175810771175728,
+    "bookOverUnder": 3.5,
+    "oppName": "Golden State Warriors",
+    "oppPace": 99.1,
+    "opp3pm": 13.2,
+    "playerOdds": {
+      "oddID": "threePointersMade-TYRESE_MAXEY_1_NBA-game-ou-under",
+      "playerID": "TYRESE_MAXEY_1_NBA",
+      "sideID": "under",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "-124",
+      "bookOdds": "-144",
+      "bookOverUnder": "3.5"
+    }
+  },
+  {
+    "playerName": "ZACH_LAVINE",
+    "teamName": "Sacramento Kings",
+    "tppsv2": 3.534089615347182,
+    "tppsFullRange": 0.5843028164040676,
+    "bookOverUnder": 2.5,
+    "oppName": "Houston Rockets",
+    "oppPace": 98.7,
+    "opp3pm": 12.1,
+    "playerOdds": {
+      "oddID": "threePointersMade-ZACH_LAVINE_1_NBA-game-ou-over",
+      "playerID": "ZACH_LAVINE_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "-125",
+      "bookOdds": "-146",
+      "bookOverUnder": "2.5"
+    }
+  },
+  {
+    "playerName": "KYRIE_IRVING",
+    "teamName": "Dallas Mavericks",
+    "tppsv2": 3.4017898906470574,
+    "tppsFullRange": 0.5624292619203135,
+    "bookOverUnder": 2.5,
+    "oppName": "Milwaukee Bucks",
+    "oppPace": 99.7,
+    "opp3pm": 13.7,
+    "playerOdds": {
+      "oddID": "threePointersMade-KYRIE_IRVING_1_NBA-game-ou-over",
+      "playerID": "KYRIE_IRVING_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "-143",
+      "bookOdds": "-169",
+      "bookOverUnder": "2.5"
+    }
+  },
+  {
+    "playerName": "LUKA_DONCIC",
+    "teamName": "Dallas Mavericks",
+    "tppsv2": 3.2084752262832064,
+    "tppsFullRange": 0.5304679040788235,
+    "bookOverUnder": 0,
+    "oppName": "Milwaukee Bucks",
+    "oppPace": 99.7,
+    "opp3pm": 13.7
+  },
+  {
+    "playerName": "VICTOR_WEMBANYAMA",
+    "teamName": "San Antonio Spurs",
+    "tppsv2": 2.9745460606774508,
+    "tppsFullRange": 0.49179161536533855,
+    "bookOverUnder": 0,
+    "oppName": "Memphis Grizzlies",
+    "oppPace": 104,
+    "opp3pm": 13.9
+  }
+]
