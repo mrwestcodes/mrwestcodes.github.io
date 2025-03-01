@@ -2,7 +2,7 @@
   {
     "playerName": "DOMANTAS_SABONIS",
     "teamName": "Sacramento Kings",
-    "reboundScorev2": 15.458391935483874,
+    "reboundScorev2": 15.5,
     "spread": 13.5,
     "oppName": "Houston Rockets",
     "oppPace": 98.7,
@@ -22,7 +22,7 @@
   {
     "playerName": "GIANNIS_ANTETOKOUNMPO",
     "teamName": "Milwaukee Bucks",
-    "reboundScorev2": 12.398196774193547,
+    "reboundScorev2": 12.4,
     "spread": 12.5,
     "oppName": "Dallas Mavericks",
     "oppPace": 99,
@@ -42,7 +42,7 @@
   {
     "playerName": "ALPEREN_SENGUN",
     "teamName": "Houston Rockets",
-    "reboundScorev2": 12.77680161290323,
+    "reboundScorev2": 12.8,
     "spread": 10.5,
     "oppName": "Sacramento Kings",
     "oppPace": 99.3,
