@@ -350,5 +350,27 @@
     },
     "normalizedStdDev": 0.1358695652173913,
     "avgUsage": 29.172222222222224
+  },
+  {
+    "playerName": "DARIUS_GARLAND",
+    "teamName": "Cleveland Cavaliers",
+    "spi": 22.8,
+    "spread": 23.5,
+    "oppName": "Portland Trail Blazers",
+    "oppPace": 98.9,
+    "oppDefRat": 115.2,
+    "avgPoints": 21.3,
+    "playerOdds": {
+      "oddID": "points-DARIUS_GARLAND_1_NBA-game-ou-over",
+      "playerID": "DARIUS_GARLAND_1_NBA",
+      "sideID": "over",
+      "statID": "points",
+      "betTypeID": "ou",
+      "fairOdds": "+126",
+      "bookOdds": "-112",
+      "bookOverUnder": "23.5"
+    },
+    "normalizedStdDev": 0.14814814814814814,
+    "avgUsage": 29.00625
   }
 ]
