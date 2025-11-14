@@ -25,7 +25,7 @@ const Threes = () => {
   const [data, setData] = useState<ThreesData[]>([]);
 
   useEffect(() => {
-    fetch("/data/tpps.json")
+    fetch("/public/data/tpps.json")
       .then((response) => response.json())
       .then((data) => setData(data))
       .catch((error) => console.error("Error loading threes data:", error));
