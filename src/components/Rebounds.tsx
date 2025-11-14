@@ -25,7 +25,7 @@ const Rebounds = () => {
   const [data, setData] = useState<ReboundsData[]>([]);
 
   useEffect(() => {
-    fetch("/public/data/rebounders.json")
+    fetch("/data/rebounders.json")
       .then((response) => response.json())
       .then((data) => setData(data))
       .catch((error) => console.error("Error loading rebounds data:", error));
