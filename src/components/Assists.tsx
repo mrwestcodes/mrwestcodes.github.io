@@ -25,7 +25,7 @@ const Assists = () => {
   const [data, setData] = useState<AssistData[]>([]);
 
   useEffect(() => {
-    fetch("/public/data/assisters.json")
+    fetch("/data/assisters.json")
       .then((response) => response.json())
       .then((data) => setData(data))
       .catch((error) => console.error("Error loading assists data:", error));
