@@ -26,7 +26,7 @@ const Points = () => {
   const [data, setData] = useState<PointsData[]>([]);
 
   useEffect(() => {
-    fetch("/data/spi.json")
+    fetch("/public/data/spi.json")
       .then((response) => response.json())
       .then((data) => setData(data))
       .catch((error) => console.error("Error loading points data:", error));
