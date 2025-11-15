@@ -1,0 +1,142 @@
+[ 
+  {
+    "playerName": "NIKOLA_JOKIC",
+    "teamName": "Denver Nuggets",
+    "assistScoreV2": 10,
+    "assistsFullRange": 91.10929618768328,
+    "spread": 9.5,
+    "oppName": "Minnesota Timberwolves",
+    "oppPace": 100.6,
+    "oppFgPercentage": 0.455,
+    "playerOdds": {
+      "oddID": "assists-NIKOLA_JOKIC_1_NBA-game-ou-over",
+      "playerID": "NIKOLA_JOKIC_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+100",
+      "bookOdds": "-130",
+      "bookOverUnder": "9.5"
+    }
+  },
+  {
+    "playerName": "LAMELO_BALL",
+    "teamName": "Charlotte Hornets",
+    "assistScoreV2": 8.7,
+    "assistsFullRange": 79.06819648093841,
+    "spread": 6.5,
+    "oppName": "Oklahoma City Thunder",
+    "oppPace": 99.3,
+    "oppFgPercentage": 0.42,
+    "playerOdds": {
+      "oddID": "assists-LAMELO_BALL_1_NBA-game-ou-over",
+      "playerID": "LAMELO_BALL_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "-108",
+      "bookOdds": "-125",
+      "bookOverUnder": "6.5"
+    }
+  },
+  {
+    "playerName": "LUKA_DONCIC",
+    "teamName": "Los Angeles Lakers",
+    "assistScoreV2": 8.6,
+    "assistsFullRange": 78.49385630498534,
+    "spread": 8.5,
+    "oppName": "Milwaukee Bucks",
+    "oppPace": 100.7,
+    "oppFgPercentage": 0.466,
+    "playerOdds": {
+      "oddID": "assists-LUKA_DONCIC_1_NBA-game-ou-over",
+      "playerID": "LUKA_DONCIC_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+100",
+      "bookOdds": "-137",
+      "bookOverUnder": "8.5"
+    }
+  },
+  {
+    "playerName": "JA_MORANT",
+    "teamName": "Memphis Grizzlies",
+    "assistScoreV2": 7.6,
+    "assistsFullRange": 69.53134897360702,
+    "spread": 7.5,
+    "oppName": "Cleveland Cavaliers",
+    "oppPace": 102.2,
+    "oppFgPercentage": 0.473,
+    "playerOdds": {
+      "oddID": "assists-JA_MORANT_1_NBA-game-ou-over",
+      "playerID": "JA_MORANT_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+142",
+      "bookOdds": "-132",
+      "bookOverUnder": "7.5"
+    }
+  },
+  {
+    "playerName": "AUSTIN_REAVES",
+    "teamName": "Los Angeles Lakers",
+    "assistScoreV2": 7.5,
+    "assistsFullRange": 68.49385630498533,
+    "spread": 6.5,
+    "oppName": "Milwaukee Bucks",
+    "oppPace": 100.7,
+    "oppFgPercentage": 0.466,
+    "playerOdds": {
+      "oddID": "assists-AUSTIN_REAVES_1_NBA-game-ou-over",
+      "playerID": "AUSTIN_REAVES_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "-104",
+      "bookOdds": "-120",
+      "bookOverUnder": "6.5"
+    }
+  },
+  {
+    "playerName": "GIANNIS_ANTETOKOUNMPO",
+    "teamName": "Milwaukee Bucks",
+    "assistScoreV2": 7.1,
+    "assistsFullRange": 64.61919354838709,
+    "spread": 7.5,
+    "oppName": "Los Angeles Lakers",
+    "oppPace": 99.9,
+    "oppFgPercentage": 0.48,
+    "playerOdds": {
+      "oddID": "assists-GIANNIS_ANTETOKOUNMPO_1_NBA-game-ou-over",
+      "playerID": "GIANNIS_ANTETOKOUNMPO_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+125",
+      "bookOdds": "+108",
+      "bookOverUnder": "7.5"
+    }
+  },
+  {
+    "playerName": "SHAI_GILGEOUSALEXANDER",
+    "teamName": "Oklahoma City Thunder",
+    "assistScoreV2": 6.4,
+    "assistsFullRange": 58.30099706744867,
+    "spread": 6.5,
+    "oppName": "Charlotte Hornets",
+    "oppPace": 99.8,
+    "oppFgPercentage": 0.497,
+    "playerOdds": {
+      "oddID": "assists-SHAI_GILGEOUSALEXANDER_1_NBA-game-ou-over",
+      "playerID": "SHAI_GILGEOUSALEXANDER_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+111",
+      "bookOdds": "-103",
+      "bookOverUnder": "6.5"
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "playerName": "DONOVAN_MITCHELL",
+    "teamName": "Cleveland Cavaliers",
+    "tppsv2": 4.3,
+    "tppsFullRange": 0.7147259865544722,
+    "bookOverUnder": 3.5,
+    "oppName": "Memphis Grizzlies",
+    "oppPace": 102.2, 
+    "opp3pm": 14.5,
+    "playerOdds": {
+      "oddID": "threePointersMade-DONOVAN_MITCHELL_1_NBA-game-ou-over",
+      "playerID": "DONOVAN_MITCHELL_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "-117",
+      "bookOdds": "-137",
+      "bookOverUnder": "3.5"
+    }
+  },
+  {
+    "playerName": "ANTHONY_EDWARDS",
+    "teamName": "Minnesota Timberwolves",
+    "tppsv2": 4.2,
+    "tppsFullRange": 0.6986562304526749,
+    "bookOverUnder": 3.5,
+    "oppName": "Denver Nuggets",
+    "oppPace": 99.1,
+    "opp3pm": 12,
+    "playerOdds": {
+      "oddID": "threePointersMade-ANTHONY_EDWARDS_1_NBA-game-ou-over",
+      "playerID": "ANTHONY_EDWARDS_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "+100",
+      "bookOdds": "-127",
+      "bookOverUnder": "3.5"
+    }
+  },
+  {
+    "playerName": "LUKA_DONCIC",
+    "teamName": "Los Angeles Lakers",
+    "tppsv2": 3.9,
+    "tppsFullRange": 0.650469713742273,
+    "bookOverUnder": 3.5,
+    "oppName": "Milwaukee Bucks",
+    "oppPace": 100.7,
+    "opp3pm": 12.2,
+    "playerOdds": {
+      "oddID": "threePointersMade-LUKA_DONCIC_1_NBA-game-ou-over",
+      "playerID": "LUKA_DONCIC_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "+108",
+      "bookOdds": "-106",
+      "bookOverUnder": "3.5"
+    }
+  },
+  {
+    "playerName": "ISAIAH_JOE",
+    "teamName": "Oklahoma City Thunder",
+    "tppsv2": 3.8,
+    "tppsFullRange": 0.6237435823705607,
+    "bookOverUnder": 2.5,
+    "oppName": "Charlotte Hornets",
+    "oppPace": 99.8,
+    "opp3pm": 14.8,
+    "playerOdds": {
+      "oddID": "threePointersMade-ISAIAH_JOE_1_NBA-game-ou-over",
+      "playerID": "ISAIAH_JOE_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "+167",
+      "bookOdds": "-154",
+      "bookOverUnder": "2.5"
+    }
+  },
+  {
+    "playerName": "SAM_MERRILL",
+    "teamName": "Cleveland Cavaliers",
+    "tppsv2": 3.8,
+    "tppsFullRange": 0.6266954866224101,
+    "bookOverUnder": 2.5,
+    "oppName": "Memphis Grizzlies",
+    "oppPace": 102.2,
+    "opp3pm": 14.5,
+    "playerOdds": {
+      "oddID": "threePointersMade-SAM_MERRILL_1_NBA-game-ou-over",
+      "playerID": "SAM_MERRILL_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "+145",
+      "bookOdds": "-167",
+      "bookOverUnder": "2.5"
+    }
+  },
+  {
+    "playerName": "KON_KNUEPPEL",
+    "teamName": "Charlotte Hornets",
+    "tppsv2": 3.8,
+    "tppsFullRange": 0.6249283425692695,
+    "bookOverUnder": 3.5,
+    "oppName": "Oklahoma City Thunder",
+    "oppPace": 99.3,
+    "opp3pm": 14.5,
+    "playerOdds": {
+      "oddID": "threePointersMade-KON_KNUEPPEL_1_NBA-game-ou-over",
+      "playerID": "KON_KNUEPPEL_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "+140",
+      "bookOdds": "+125",
+      "bookOverUnder": "3.5"
+    }
+  },
+  {
+    "playerName": "MILES_BRIDGES",
+    "teamName": "Charlotte Hornets",
+    "tppsv2": 3.6,
+    "tppsFullRange": 0.5942657335701598,
+    "bookOverUnder": 2.5,
+    "oppName": "Oklahoma City Thunder",
+    "oppPace": 99.3,
+    "opp3pm": 14.5,
+    "playerOdds": {
+      "oddID": "threePointersMade-MILES_BRIDGES_1_NBA-game-ou-over",
+      "playerID": "MILES_BRIDGES_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "+173",
+      "bookOdds": "-132",
+      "bookOverUnder": "2.5"
+    }
+  },
+  {
+    "playerName": "LAMELO_BALL",
+    "teamName": "Charlotte Hornets",
+    "tppsv2": 3.5,
+    "tppsFullRange": 0.574627719745223,
+    "bookOverUnder": 2.5,
+    "oppName": "Oklahoma City Thunder",
+    "oppPace": 99.3,
+    "opp3pm": 14.5,
+    "playerOdds": {
+      "oddID": "threePointersMade-LAMELO_BALL_1_NBA-game-ou-over",
+      "playerID": "LAMELO_BALL_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "+171",
+      "bookOdds": "-146",
+      "bookOverUnder": "2.5"
+    }
+  },
+  {
+    "playerName": "DONTE_DIVINCENZO",
+    "teamName": "Minnesota Timberwolves",
+    "tppsv2": 3.5,
+    "tppsFullRange": 0.5722757737077737,
+    "bookOverUnder": 2.5,
+    "oppName": "Denver Nuggets",
+    "oppPace": 99.1,
+    "opp3pm": 12,
+    "playerOdds": {
+      "oddID": "threePointersMade-DONTE_DIVINCENZO_1_NBA-game-ou-over",
+      "playerID": "DONTE_DIVINCENZO_1_NBA",
+      "sideID": "over",
+      "statID": "threePointersMade",
+      "betTypeID": "ou",
+      "fairOdds": "+161",
+      "bookOdds": "-156",
+      "bookOverUnder": "2.5"
+    }
+  }
+]

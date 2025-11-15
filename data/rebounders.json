@@ -1,0 +1,82 @@
+[ 
+  {
+    "playerName": "NIKOLA_JOKIC",
+    "teamName": "Denver Nuggets",
+    "reboundScorev2": 14.7,
+    "spread": 12.5,
+    "oppName": "Minnesota Timberwolves",
+    "oppPace": 100.6,
+    "oppFgPercentage": 0.455,
+    "oppReboundsAllowed": 43.7,
+    "playerOdds": {
+      "oddID": "rebounds-NIKOLA_JOKIC_1_NBA-game-ou-over",
+      "playerID": "NIKOLA_JOKIC_1_NBA",
+      "sideID": "over",
+      "statID": "rebounds",
+      "betTypeID": "ou",
+      "fairOdds": "+115",
+      "bookOdds": "+100",
+      "bookOverUnder": "12.5"
+    }
+  },
+  {
+    "playerName": "ISAIAH_HARTENSTEIN",
+    "teamName": "Oklahoma City Thunder",
+    "reboundScorev2": 14.2,
+    "spread": 9.5,
+    "oppName": "Charlotte Hornets",
+    "oppPace": 99.8,
+    "oppFgPercentage": 0.497,
+    "oppReboundsAllowed": 37.8,
+    "playerOdds": {
+      "oddID": "rebounds-ISAIAH_HARTENSTEIN_1_NBA-game-ou-over",
+      "playerID": "ISAIAH_HARTENSTEIN_1_NBA",
+      "sideID": "over",
+      "statID": "rebounds",
+      "betTypeID": "ou",
+      "fairOdds": "+114",
+      "bookOdds": "-102",
+      "bookOverUnder": "9.5"
+    }
+  },
+  {
+    "playerName": "GIANNIS_ANTETOKOUNMPO",
+    "teamName": "Milwaukee Bucks",
+    "reboundScorev2": 12,
+    "spread": 10.5,
+    "oppName": "Los Angeles Lakers",
+    "oppPace": 99.9,
+    "oppFgPercentage": 0.48,
+    "oppReboundsAllowed": 40,
+    "playerOdds": {
+      "oddID": "rebounds-GIANNIS_ANTETOKOUNMPO_1_NBA-game-ou-over",
+      "playerID": "GIANNIS_ANTETOKOUNMPO_1_NBA",
+      "sideID": "over",
+      "statID": "rebounds",
+      "betTypeID": "ou",
+      "fairOdds": "+100",
+      "bookOdds": "-115",
+      "bookOverUnder": "10.5"
+    }
+  },
+  {
+    "playerName": "RUDY_GOBERT",
+    "teamName": "Minnesota Timberwolves",
+    "reboundScorev2": 11.5,
+    "spread": 10.5,
+    "oppName": "Denver Nuggets",
+    "oppPace": 99.1,
+    "oppFgPercentage": 0.446,
+    "oppReboundsAllowed": 39.8,
+    "playerOdds": {
+      "oddID": "rebounds-RUDY_GOBERT_1_NBA-game-ou-over",
+      "playerID": "RUDY_GOBERT_1_NBA",
+      "sideID": "over",
+      "statID": "rebounds",
+      "betTypeID": "ou",
+      "fairOdds": "+115",
+      "bookOdds": "+100",
+      "bookOverUnder": "10.5"
+    }
+  }
+]
