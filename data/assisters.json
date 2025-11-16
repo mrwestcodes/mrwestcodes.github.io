@@ -1,141 +1,121 @@
-[ 
+[
   {
-    "playerName": "NIKOLA_JOKIC",
-    "teamName": "Denver Nuggets",
-    "assistScoreV2": 10,
-    "assistsFullRange": 91.10929618768328,
+    "playerName": "JOSH_GIDDEY",
+    "teamName": "Chicago Bulls",
+    "assistScoreV2": 8.9,
+    "assistsFullRange": 80.92206744868035,
     "spread": 9.5,
-    "oppName": "Minnesota Timberwolves",
-    "oppPace": 100.6,
-    "oppFgPercentage": 0.455,
+    "oppName": "Utah Jazz",
+    "oppPace": 100.9,
+    "oppFgPercentage": 0.475,
     "playerOdds": {
-      "oddID": "assists-NIKOLA_JOKIC_1_NBA-game-ou-over",
-      "playerID": "NIKOLA_JOKIC_1_NBA",
-      "sideID": "over",
-      "statID": "assists",
-      "betTypeID": "ou",
-      "fairOdds": "+100",
-      "bookOdds": "-130",
-      "bookOverUnder": "9.5"
-    }
-  },
-  {
-    "playerName": "LAMELO_BALL",
-    "teamName": "Charlotte Hornets",
-    "assistScoreV2": 8.7,
-    "assistsFullRange": 79.06819648093841,
-    "spread": 6.5,
-    "oppName": "Oklahoma City Thunder",
-    "oppPace": 99.3,
-    "oppFgPercentage": 0.42,
-    "playerOdds": {
-      "oddID": "assists-LAMELO_BALL_1_NBA-game-ou-over",
-      "playerID": "LAMELO_BALL_1_NBA",
-      "sideID": "over",
-      "statID": "assists",
-      "betTypeID": "ou",
-      "fairOdds": "-108",
-      "bookOdds": "-125",
-      "bookOverUnder": "6.5"
-    }
-  },
-  {
-    "playerName": "LUKA_DONCIC",
-    "teamName": "Los Angeles Lakers",
-    "assistScoreV2": 8.6,
-    "assistsFullRange": 78.49385630498534,
-    "spread": 8.5,
-    "oppName": "Milwaukee Bucks",
-    "oppPace": 100.7,
-    "oppFgPercentage": 0.466,
-    "playerOdds": {
-      "oddID": "assists-LUKA_DONCIC_1_NBA-game-ou-over",
-      "playerID": "LUKA_DONCIC_1_NBA",
-      "sideID": "over",
-      "statID": "assists",
-      "betTypeID": "ou",
-      "fairOdds": "+100",
-      "bookOdds": "-137",
-      "bookOverUnder": "8.5"
-    }
-  },
-  {
-    "playerName": "JA_MORANT",
-    "teamName": "Memphis Grizzlies",
-    "assistScoreV2": 7.6,
-    "assistsFullRange": 69.53134897360702,
-    "spread": 7.5,
-    "oppName": "Cleveland Cavaliers",
-    "oppPace": 102.2,
-    "oppFgPercentage": 0.473,
-    "playerOdds": {
-      "oddID": "assists-JA_MORANT_1_NBA-game-ou-over",
-      "playerID": "JA_MORANT_1_NBA",
-      "sideID": "over",
-      "statID": "assists",
-      "betTypeID": "ou",
-      "fairOdds": "+142",
-      "bookOdds": "-132",
-      "bookOverUnder": "7.5"
-    }
-  },
-  {
-    "playerName": "AUSTIN_REAVES",
-    "teamName": "Los Angeles Lakers",
-    "assistScoreV2": 7.5,
-    "assistsFullRange": 68.49385630498533,
-    "spread": 6.5,
-    "oppName": "Milwaukee Bucks",
-    "oppPace": 100.7,
-    "oppFgPercentage": 0.466,
-    "playerOdds": {
-      "oddID": "assists-AUSTIN_REAVES_1_NBA-game-ou-over",
-      "playerID": "AUSTIN_REAVES_1_NBA",
-      "sideID": "over",
-      "statID": "assists",
-      "betTypeID": "ou",
-      "fairOdds": "-104",
-      "bookOdds": "-120",
-      "bookOverUnder": "6.5"
-    }
-  },
-  {
-    "playerName": "GIANNIS_ANTETOKOUNMPO",
-    "teamName": "Milwaukee Bucks",
-    "assistScoreV2": 7.1,
-    "assistsFullRange": 64.61919354838709,
-    "spread": 7.5,
-    "oppName": "Los Angeles Lakers",
-    "oppPace": 99.9,
-    "oppFgPercentage": 0.48,
-    "playerOdds": {
-      "oddID": "assists-GIANNIS_ANTETOKOUNMPO_1_NBA-game-ou-over",
-      "playerID": "GIANNIS_ANTETOKOUNMPO_1_NBA",
-      "sideID": "over",
-      "statID": "assists",
-      "betTypeID": "ou",
-      "fairOdds": "+125",
-      "bookOdds": "+108",
-      "bookOverUnder": "7.5"
-    }
-  },
-  {
-    "playerName": "SHAI_GILGEOUSALEXANDER",
-    "teamName": "Oklahoma City Thunder",
-    "assistScoreV2": 6.4,
-    "assistsFullRange": 58.30099706744867,
-    "spread": 6.5,
-    "oppName": "Charlotte Hornets",
-    "oppPace": 99.8,
-    "oppFgPercentage": 0.497,
-    "playerOdds": {
-      "oddID": "assists-SHAI_GILGEOUSALEXANDER_1_NBA-game-ou-over",
-      "playerID": "SHAI_GILGEOUSALEXANDER_1_NBA",
+      "oddID": "assists-JOSH_GIDDEY_1_NBA-game-ou-over",
+      "playerID": "JOSH_GIDDEY_1_NBA",
       "sideID": "over",
       "statID": "assists",
       "betTypeID": "ou",
       "fairOdds": "+111",
-      "bookOdds": "-103",
+      "bookOdds": "-102",
+      "bookOverUnder": "9.5"
+    }
+  },
+  {
+    "playerName": "JAMES_HARDEN",
+    "teamName": "LA Clippers",
+    "assistScoreV2": 8.7,
+    "assistsFullRange": 79.4341202346041,
+    "spread": 9.5,
+    "oppName": "Boston Celtics",
+    "oppPace": 96.3,
+    "oppFgPercentage": 0.433,
+    "playerOdds": {
+      "oddID": "assists-JAMES_HARDEN_1_NBA-game-ou-over",
+      "playerID": "JAMES_HARDEN_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+107",
+      "bookOdds": "-107",
+      "bookOverUnder": "9.5"
+    }
+  },
+  {
+    "playerName": "JRUE_HOLIDAY",
+    "teamName": "Portland Trail Blazers",
+    "assistScoreV2": 7.8,
+    "assistsFullRange": 70.84234604105572,
+    "spread": 7.5,
+    "oppName": "Dallas Mavericks",
+    "oppPace": 102.8,
+    "oppFgPercentage": 0.46,
+    "playerOdds": {
+      "oddID": "assists-JRUE_HOLIDAY_1_NBA-game-ou-over",
+      "playerID": "JRUE_HOLIDAY_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+113",
+      "bookOdds": "+100",
+      "bookOverUnder": "7.5"
+    }
+  },
+  {
+    "playerName": "STEPHON_CASTLE",
+    "teamName": "San Antonio Spurs",
+    "assistScoreV2": 7.5,
+    "assistsFullRange": 67.88412023460411,
+    "spread": 7.5,
+    "oppName": "Sacramento Kings",
+    "oppPace": 102.5,
+    "oppFgPercentage": 0.508,
+    "playerOdds": {
+      "oddID": "assists-STEPHON_CASTLE_1_NBA-game-ou-over",
+      "playerID": "STEPHON_CASTLE_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+107",
+      "bookOdds": "-107",
+      "bookOverUnder": "7.5"
+    }
+  },
+  {
+    "playerName": "ALPEREN_SENGUN",
+    "teamName": "Houston Rockets",
+    "assistScoreV2": 7,
+    "assistsFullRange": 63.39020527859237,
+    "spread": 6.5,
+    "oppName": "Orlando Magic",
+    "oppPace": 100.6,
+    "oppFgPercentage": 0.469,
+    "playerOdds": {
+      "oddID": "assists-ALPEREN_SENGUN_1_NBA-game-ou-over",
+      "playerID": "ALPEREN_SENGUN_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+100",
+      "bookOdds": "-115",
+      "bookOverUnder": "6.5"
+    }
+  },
+  {
+    "playerName": "DEVIN_BOOKER",
+    "teamName": "Phoenix Suns",
+    "assistScoreV2": 6.7,
+    "assistsFullRange": 60.74947214076245,
+    "spread": 6.5,
+    "oppName": "Atlanta Hawks",
+    "oppPace": 101.8,
+    "oppFgPercentage": 0.451,
+    "playerOdds": {
+      "oddID": "assists-DEVIN_BOOKER_1_NBA-game-ou-over",
+      "playerID": "DEVIN_BOOKER_1_NBA",
+      "sideID": "over",
+      "statID": "assists",
+      "betTypeID": "ou",
+      "fairOdds": "+131",
+      "bookOdds": "-143",
       "bookOverUnder": "6.5"
     }
   }

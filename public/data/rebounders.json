@@ -1,82 +1,122 @@
-[ 
+[
   {
-    "playerName": "NIKOLA_JOKIC",
-    "teamName": "Denver Nuggets",
-    "reboundScorev2": 14.7,
+    "playerName": "VICTOR_WEMBANYAMA",
+    "teamName": "San Antonio Spurs",
+    "reboundScorev2": 13.3,
     "spread": 12.5,
-    "oppName": "Minnesota Timberwolves",
-    "oppPace": 100.6,
-    "oppFgPercentage": 0.455,
-    "oppReboundsAllowed": 43.7,
+    "oppName": "Sacramento Kings",
+    "oppPace": 102.5,
+    "oppFgPercentage": 0.508,
+    "oppReboundsAllowed": 46.1,
     "playerOdds": {
-      "oddID": "rebounds-NIKOLA_JOKIC_1_NBA-game-ou-over",
-      "playerID": "NIKOLA_JOKIC_1_NBA",
-      "sideID": "over",
-      "statID": "rebounds",
-      "betTypeID": "ou",
-      "fairOdds": "+115",
-      "bookOdds": "+100",
-      "bookOverUnder": "12.5"
-    }
-  },
-  {
-    "playerName": "ISAIAH_HARTENSTEIN",
-    "teamName": "Oklahoma City Thunder",
-    "reboundScorev2": 14.2,
-    "spread": 9.5,
-    "oppName": "Charlotte Hornets",
-    "oppPace": 99.8,
-    "oppFgPercentage": 0.497,
-    "oppReboundsAllowed": 37.8,
-    "playerOdds": {
-      "oddID": "rebounds-ISAIAH_HARTENSTEIN_1_NBA-game-ou-over",
-      "playerID": "ISAIAH_HARTENSTEIN_1_NBA",
-      "sideID": "over",
-      "statID": "rebounds",
-      "betTypeID": "ou",
-      "fairOdds": "+114",
-      "bookOdds": "-102",
-      "bookOverUnder": "9.5"
-    }
-  },
-  {
-    "playerName": "GIANNIS_ANTETOKOUNMPO",
-    "teamName": "Milwaukee Bucks",
-    "reboundScorev2": 12,
-    "spread": 10.5,
-    "oppName": "Los Angeles Lakers",
-    "oppPace": 99.9,
-    "oppFgPercentage": 0.48,
-    "oppReboundsAllowed": 40,
-    "playerOdds": {
-      "oddID": "rebounds-GIANNIS_ANTETOKOUNMPO_1_NBA-game-ou-over",
-      "playerID": "GIANNIS_ANTETOKOUNMPO_1_NBA",
+      "oddID": "rebounds-VICTOR_WEMBANYAMA_1_NBA-game-ou-over",
+      "playerID": "VICTOR_WEMBANYAMA_1_NBA",
       "sideID": "over",
       "statID": "rebounds",
       "betTypeID": "ou",
       "fairOdds": "+100",
-      "bookOdds": "-115",
-      "bookOverUnder": "10.5"
+      "bookOdds": "-120",
+      "bookOverUnder": "12.5"
     }
   },
   {
-    "playerName": "RUDY_GOBERT",
-    "teamName": "Minnesota Timberwolves",
-    "reboundScorev2": 11.5,
-    "spread": 10.5,
-    "oppName": "Denver Nuggets",
-    "oppPace": 99.1,
-    "oppFgPercentage": 0.446,
-    "oppReboundsAllowed": 39.8,
+    "playerName": "ALPEREN_SENGUN",
+    "teamName": "Houston Rockets",
+    "reboundScorev2": 13.3,
+    "spread": 9.5,
+    "oppName": "Orlando Magic",
+    "oppPace": 100.6,
+    "oppFgPercentage": 0.469,
+    "oppReboundsAllowed": 40.5,
     "playerOdds": {
-      "oddID": "rebounds-RUDY_GOBERT_1_NBA-game-ou-over",
-      "playerID": "RUDY_GOBERT_1_NBA",
+      "oddID": "rebounds-ALPEREN_SENGUN_1_NBA-game-ou-over",
+      "playerID": "ALPEREN_SENGUN_1_NBA",
+      "sideID": "over",
+      "statID": "rebounds",
+      "betTypeID": "ou",
+      "fairOdds": "+100",
+      "bookOdds": "-129",
+      "bookOverUnder": "9.5"
+    }
+  },
+  {
+    "playerName": "DOMANTAS_SABONIS",
+    "teamName": "Sacramento Kings",
+    "reboundScorev2": 13.2,
+    "spread": 12.5,
+    "oppName": "San Antonio Spurs",
+    "oppPace": 99.3,
+    "oppFgPercentage": 0.445,
+    "oppReboundsAllowed": 38.3,
+    "playerOdds": {
+      "oddID": "rebounds-DOMANTAS_SABONIS_1_NBA-game-ou-over",
+      "playerID": "DOMANTAS_SABONIS_1_NBA",
+      "sideID": "over",
+      "statID": "rebounds",
+      "betTypeID": "ou",
+      "fairOdds": "+110",
+      "bookOdds": "-104",
+      "bookOverUnder": "12.5"
+    }
+  },
+  {
+    "playerName": "JOSH_GIDDEY",
+    "teamName": "Chicago Bulls",
+    "reboundScorev2": 11.2,
+    "spread": 8.5,
+    "oppName": "Utah Jazz",
+    "oppPace": 100.9,
+    "oppFgPercentage": 0.475,
+    "oppReboundsAllowed": 42.3,
+    "playerOdds": {
+      "oddID": "rebounds-JOSH_GIDDEY_1_NBA-game-ou-over",
+      "playerID": "JOSH_GIDDEY_1_NBA",
+      "sideID": "over",
+      "statID": "rebounds",
+      "betTypeID": "ou",
+      "fairOdds": "+100",
+      "bookOdds": "-120",
+      "bookOverUnder": "8.5"
+    }
+  },
+  {
+    "playerName": "JALEN_JOHNSON",
+    "teamName": "Atlanta Hawks",
+    "reboundScorev2": 10.2,
+    "spread": 9.5,
+    "oppName": "Phoenix Suns",
+    "oppPace": 98.8,
+    "oppFgPercentage": 0.464,
+    "oppReboundsAllowed": 42.5,
+    "playerOdds": {
+      "oddID": "rebounds-JALEN_JOHNSON_1_NBA-game-ou-over",
+      "playerID": "JALEN_JOHNSON_1_NBA",
+      "sideID": "over",
+      "statID": "rebounds",
+      "betTypeID": "ou",
+      "fairOdds": "+111",
+      "bookOdds": "-103",
+      "bookOverUnder": "9.5"
+    }
+  },
+  {
+    "playerName": "IVICA_ZUBAC",
+    "teamName": "LA Clippers",
+    "reboundScorev2": 10.1,
+    "spread": 11.5,
+    "oppName": "Boston Celtics",
+    "oppPace": 96.3,
+    "oppFgPercentage": 0.433,
+    "oppReboundsAllowed": 44.9,
+    "playerOdds": {
+      "oddID": "rebounds-IVICA_ZUBAC_1_NBA-game-ou-over",
+      "playerID": "IVICA_ZUBAC_1_NBA",
       "sideID": "over",
       "statID": "rebounds",
       "betTypeID": "ou",
       "fairOdds": "+115",
       "bookOdds": "+100",
-      "bookOverUnder": "10.5"
+      "bookOverUnder": "11.5"
     }
   }
 ]
